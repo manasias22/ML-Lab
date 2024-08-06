@@ -10,7 +10,7 @@
 
 4. To demonstrate dimensionality reduction techniques.
 
-## Lab Outcomes: At the end of the course, the students will be able to
+## Lab Outcomes: 
 1. To implement an appropriate machine learning model for the given application.
 
 2. To implement ensemble techniques to combine predictions from different models.
