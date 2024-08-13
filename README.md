@@ -23,10 +23,10 @@
 
 2.	[Analyze the Titanic Survival Dataset and Apply appropriate Regression Technique](https://github.com/manasias22/ML-Lab/tree/main/Experiment_02)
 
-3.	[Apply Decision Tree Algorithm on Adult Census Income Dataset and analyze the performance of the model]
+3.	[Apply Decision Tree Algorithm on Adult Census Income Dataset and analyze the performance of the model](https://github.com/manasias22/ML-Lab/tree/main/Experiment_03)
 
-4.	[Apply Random Forest Algorithm on Adult Census Income Dataset and analyze the performance of the model]
+4.	[Apply Random Forest Algorithm on Adult Census Income Dataset and analyze the performance of the model](https://github.com/manasias22/ML-Lab/tree/main/Experiment_4)
 
-5.	[Apply appropriate Unsupervised Learning Technique on the Wholesale Customers Dataset]
+5.	[Apply appropriate Unsupervised Learning Technique on the Wholesale Customers Dataset](https://github.com/manasias22/ML-Lab/tree/main/Experiment_5)
 
-6.	[Apply Dimensionality Reduction on Adult Census Income Dataset and analyze the performance of the model] 
+6.	[Apply Dimensionality Reduction on Adult Census Income Dataset and analyze the performance of the model](https://github.com/manasias22/ML-Lab/tree/main/Experiment_6)
